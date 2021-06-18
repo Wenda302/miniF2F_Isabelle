@@ -1,6 +1,7 @@
 (*
   Authors: Wenda Li
 *)
+
 theory amc12_2000_p15 imports
   Complex_Main
   "HOL-Computational_Algebra.Computational_Algebra"
